@@ -1,0 +1,114 @@
+body{
+    background-color:rgb(247, 243, 188);
+    color: rgb(63, 40, 11); font-size: 0.7cm; 
+}
+header{
+    text-align: center;
+    background-color: rgb(206, 153, 85); width: 100%; height: 5.5cm;
+}
+.fa-solid{
+    font-size: 3cm;
+}
+.div1{
+    padding: 1cm; text-decoration: underline;
+    color: rgb(66, 45, 19); font-size: 2cm; font-family: 'Saira Stencil One', cursive;
+}
+.sticky{
+    background-color: rgb(206, 153, 85); color: rgb(66, 45, 19); 
+    position: sticky; top: 0; 
+    padding: 10px; font-size: 29px;
+}
+.hd1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; font-weight: 400;font-size: 1.5cm;
+}
+.f1{
+    width: 25cm; text-align: justify; margin-left: 10cm;
+    border: 2px; border-style: solid; border-color: rgb(54, 35, 10); padding: 1cm;
+}
+.div3{
+    display: inline; float: left;
+}
+
+.icon{
+    width: 60px; height: 60px; background-color: rgb(206, 153, 85); margin-left: 44.8cm; padding: 15px;
+    border-radius: 50%; position: sticky; top: 0; 
+}
+.hd2{
+    font-family: 'Lilita One', cursive; font-size: 1.5cm; text-align: center; text-decoration: underline;
+}
+.ul{
+    margin: 1cm; text-align: justify;
+}
+
+
+.img1{
+    width: 400px; height: 300px; display: inline; float: left; margin-left: 9cm;
+    border-color: rgb(41, 26, 7); border-width: 5px; border-style: groove;
+}
+.diva{
+    text-align: justify; width: 16.5cm; margin-left: 21cm;
+}
+.divb{
+    text-align: justify; width: 17cm; margin-left: 9cm;  display: inline; float: left;
+}
+.img2{
+    width: 400px; height: 350px; margin-left: 1cm;
+    border-color: rgb(41, 26, 7); border-width: 5px; border-style: groove;
+}
+
+
+.divg{
+    background-color: rgb(206, 153, 85); width: 100%; height: 100%; text-align: center; padding-top: 8px;
+}
+.imgg{
+    width: 500px; height: 400px; padding: 40px;
+    box-shadow: 2px 2px 15px;
+}
+.hd3{
+    text-align: center; font-family: 'Montserrat', sans-serif;
+}
+.f2{
+    text-align: center; width: 27cm; margin-left: 8cm; background-color: rgb(206, 153, 85);
+    border: 2px; border-style: solid; border-color: rgb(54, 35, 10); padding: 2cm;
+}
+.input{
+    height: 1cm; width: 9cm;
+}
+.inputq{
+    height: 5cm; width: 12cm; margin-left: 1cm;
+}
+.label{
+    margin-left: 2.5cm;
+}
+button{
+    width: 4cm; height: 1.3cm; background-color: black; color: white; font-size: large;
+}
+
+footer{
+    background-color: rgb(206, 153, 85); width: 100%; height: 10cm;
+    font-family: 'Montserrat', sans-serif;
+}
+.divf{
+    font-size: 6cm; color: rgb(48, 31, 8); margin-left: 5cm;
+    display: inline; float: left; margin-top: 2cm;
+}
+.col1{
+    display: inline; float: left;
+    margin-left: 2cm; font-size: 5cm; padding: 2cm;
+}
+.col2{
+    display: inline; float: left;
+    text-align: center; margin-left: 5cm;
+}
+.col3{
+    display: inline; float: right;
+    margin-right: 1cm;
+}
+.para{
+    font-size: large;
+}
+.view{
+    color: rgb(41, 26, 7); text-decoration: solid;
+}
+
